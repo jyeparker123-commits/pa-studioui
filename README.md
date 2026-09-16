@@ -1,5 +1,10 @@
 # StudioUI
 
+> **Repository purpose:** this is the public advertising and product-information
+> repository for StudioUI. It is not the internal development repository or the
+> plugin source distribution. Product development is maintained separately in a
+> private repository; visit [studioui.ai](https://studioui.ai) for product access.
+
 **One plugin. Every modality. Image · Video · GIF · Music · AI Chat Companions — all inside WordPress.**
 
 [![Website](https://img.shields.io/badge/site-studioui.ai-2563eb)](https://studioui.ai)

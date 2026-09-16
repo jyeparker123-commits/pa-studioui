@@ -1,5 +1,8 @@
 # StudioUI Roadmap
 
+This is public product information in StudioUI's advertising repository. Internal
+development and its work records are maintained separately in a private repository.
+
 StudioUI is a multi-modal AI studio for WordPress — image, video, GIF, music, and
 AI chat companions in one white-labelled interface. This roadmap tracks where the
 product is heading. Dates are directional, not promises.

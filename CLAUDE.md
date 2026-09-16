@@ -1,10 +1,13 @@
 @AGENTS.md
 
-# StudioUI documentation repository
+# StudioUI public advertising repository
 
-This repository currently contains StudioUI documentation and planning files. Treat
-the checked-out repository as the source of truth; do not infer that plugin source or
-local desktop configuration is present when it is absent from the clone.
+This is StudioUI's public advertising and product-information repository.
+It is not the internal development repository and is not a plugin build source.
+Internal development is maintained separately in a private repository.
+Keep changes here limited to authorized public-facing copy, documentation and
+assets. Do not add internal source, operational records, credentials or private
+development material; do not repoint this checkout to the private repository.
 
 Global standard — truth contract, autonomy, door decisions, secrets and the whole
 Git/GitHub lifecycle: `C:/Users/Jye_P/.claude/CLAUDE.md`.
