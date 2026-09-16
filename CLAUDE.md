@@ -1,3 +1,5 @@
+@AGENTS.md
+
 # StudioUI documentation repository
 
 This repository currently contains StudioUI documentation and planning files. Treat
