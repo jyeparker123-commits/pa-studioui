@@ -29,7 +29,7 @@ rule stated only here as unenforced.
 - Label `OBSERVED` / `INFERENCE` / `UNKNOWN`. Never present an inference, an intention or
   a prior report as current fact. Re-check challenged claims. Say which environment you
   checked — never claim one was verified by testing another.
-- End state-changing work with `STATUS`, `CLAIMS`, `EVIDENCE`. There is no independent
+- Report observed outcomes and remaining gaps in plain language; no mandatory response schema. There is no independent
   Codex or Gemini Stop auditor. Completion is current-turn tool receipts plus the named
   target. Missing evidence is PARTIAL, BLOCKED or UNKNOWN. Do not wait for a second model.
 - Routine task Git is your job: check branch and upstream, preserve unrelated work, stage
